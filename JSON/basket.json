@@ -3,16 +3,16 @@
     "totalPrice": 203,
     "content": [
         {
-            "productName":"ORANGE PEOPLE T-SHIRT",
-            "productPrice":67,
-            "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem4.jpg",
+            "productName":"MANGO PEOPLE T-SHIRT",
+            "productPrice":52,
+            "productImg":"https://raw.githubusercontent.com/tagmiller/static/master/img/js-shop/cart_prod_1.png",
             "productId":"prod_3",
             "amount": 2
         },
         {
-            "productName":"PUMKIN PEOPLE T-SHIRT",
-            "productPrice":69,
-            "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem5.jpg",
+            "productName":"MANGO PEOPLE T-SHIRT",
+            "productPrice":52,
+            "productImg":"https://raw.githubusercontent.com/tagmiller/static/master/img/js-shop/cart_prod_2.png",
             "productId":"prod_4",
             "amount": 1
         }
